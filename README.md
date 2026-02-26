@@ -2,6 +2,7 @@ a fast installer for wine portproton lutris and protontrix
 for the noobs
 
 1.To use it right click it properties 
+
 2.allow run as program
 
 3.right click and open in konsol/terminal
