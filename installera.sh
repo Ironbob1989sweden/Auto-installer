@@ -1,5 +1,5 @@
 # Auto-installer
-Auto installer for wine portproton lutris
+Auto installer for wine portproton lutris and protontrix
 
 #!/bin/bash
 
